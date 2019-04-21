@@ -1,0 +1,13 @@
+C:\Users\Messy\source\repos\InteriewSolution\InteriewSolution\bin\Debug\netcoreapp2.1\InteriewSolution.deps.json
+C:\Users\Messy\source\repos\InteriewSolution\InteriewSolution\bin\Debug\netcoreapp2.1\InteriewSolution.dll
+C:\Users\Messy\source\repos\InteriewSolution\InteriewSolution\bin\Debug\netcoreapp2.1\InteriewSolution.pdb
+C:\Users\Messy\source\repos\InteriewSolution\InteriewSolution\obj\Debug\netcoreapp2.1\InteriewSolution.csproj.CoreCompileInputs.cache
+C:\Users\Messy\source\repos\InteriewSolution\InteriewSolution\obj\Debug\netcoreapp2.1\InteriewSolution.AssemblyInfoInputs.cache
+C:\Users\Messy\source\repos\InteriewSolution\InteriewSolution\obj\Debug\netcoreapp2.1\InteriewSolution.AssemblyInfo.cs
+C:\Users\Messy\source\repos\InteriewSolution\InteriewSolution\obj\Debug\netcoreapp2.1\InteriewSolution.dll
+C:\Users\Messy\source\repos\InteriewSolution\InteriewSolution\obj\Debug\netcoreapp2.1\InteriewSolution.pdb
+C:\Users\Messy\source\repos\InteriewSolution\InteriewSolution\bin\Debug\netcoreapp2.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\Messy\source\repos\InteriewSolution\InteriewSolution\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Messy\source\repos\InteriewSolution\InteriewSolution\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Messy\source\repos\InteriewSolution\InteriewSolution\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Messy\source\repos\InteriewSolution\InteriewSolution\obj\Debug\netcoreapp2.1\InteriewSolution.csprojAssemblyReference.cache
