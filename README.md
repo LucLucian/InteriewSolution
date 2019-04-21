@@ -1,3 +1,3 @@
-# InteriewSolution
+# InterviewSolution
 
 TBD
