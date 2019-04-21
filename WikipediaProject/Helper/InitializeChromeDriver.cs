@@ -6,29 +6,28 @@ namespace WikipediaProject.Helper
 {
     public static class InitializeChromeDriver
     {
-
+        /// <summary>
+        /// Starts the chrome driver
+        /// </summary>
+        /// <returns></returns>
         internal static IWebDriver StartChromeDriver()
         {
             IWebDriver driver;
             driver = StartDesktopChromeBrowser();
+            driver.Manage().Window.Maximize();
             return driver;
         }
 
+        /// <summary>
+        /// Starts the desktop chrome browser
+        /// </summary>
+        /// <returns></returns>
         private static IWebDriver StartDesktopChromeBrowser()
         {
             IWebDriver driver;
-            ChromeOptions chromeOptions = SetDriverOptions();
             driver = new ChromeDriver(Environment.CurrentDirectory);
 
             return driver;
-        }
-
-        private static ChromeOptions SetDriverOptions()
-        {
-            ChromeOptions chromeOptions = new ChromeOptions();
-            chromeOptions.AddArguments("start-maximized");
-
-            return chromeOptions;
         }
     }
 }

@@ -1,5 +1,4 @@
 ﻿using OpenQA.Selenium;
-using OpenQA.Selenium.Chrome;
 using WikipediaProject.Helper;
 
 namespace WikipediaProject.Pages
@@ -36,6 +35,9 @@ namespace WikipediaProject.Pages
             searchBox.SendKeys(searchedText);
         }
 
+        /// <summary>
+        /// Clicks on the Search button from Wikipedia Home page
+        /// </summary>
         public void Click_SearchButton()
         {
             driver.FindElementExtended(By.ClassName("pure-button")).Click();

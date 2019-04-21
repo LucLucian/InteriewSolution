@@ -40,7 +40,6 @@ namespace WikipediaProject.Pages
             recordRow.Click();
 
             Thread.Sleep(500);
-
         }
     }
 }
